@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MapReducePresentation/1d3321752e783db39830dd61c2c78096918eb715fd8aaa68787e237e92c6270a.mp4",
+      "rev_file": "slides/files/MapReducePresentation/1d3321752e783db39830dd61c2c78096918eb715fd8aaa68787e237e92c6270a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MapReducePresentation/aa5f6b4c3c04ec2ef051ea55e5a99c594b46e32d79c1d2d32f180812e5f48772.mp4",
+      "rev_file": "slides/files/MapReducePresentation/aa5f6b4c3c04ec2ef051ea55e5a99c594b46e32d79c1d2d32f180812e5f48772_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MapReducePresentation/1e28f1349beed49f0adc0e1c56de46373311785af15e6cbc7dcbe12a25759ccf.mp4",
+      "rev_file": "slides/files/MapReducePresentation/1e28f1349beed49f0adc0e1c56de46373311785af15e6cbc7dcbe12a25759ccf_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MapReducePresentation/9d96458cc6d3fe0df8832dc4f67fd7a2e88713b956d3e545ef5914478ca358b8.mp4",
+      "rev_file": "slides/files/MapReducePresentation/9d96458cc6d3fe0df8832dc4f67fd7a2e88713b956d3e545ef5914478ca358b8_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "skip_animations": false,
+      "src": null,
+      "file": "slides/files/MapReducePresentation/e88a2bb493205d19404446c8a80b3fd408bd33fa912743bc61020e5b6e632cf2.mp4",
+      "rev_file": "slides/files/MapReducePresentation/e88a2bb493205d19404446c8a80b3fd408bd33fa912743bc61020e5b6e632cf2_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
